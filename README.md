@@ -1,1 +1,1 @@
-#Merge Short Algorithm-Visualizer
+# Merge Short Algorithm-Visualizer
